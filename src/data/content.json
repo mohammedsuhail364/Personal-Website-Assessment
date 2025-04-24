@@ -1,0 +1,30 @@
+{
+    "about":{
+        "title":"About me",
+        "description":"I m Mohammed Suhail , a full stack developer"
+    },
+    "skills":{
+        "title":"Skills",
+        "items":["React","Node.js","MongoDB","TypeScript","Tailwind Css"]
+    },
+    "Hobbies":{
+        "title":"hobbies and interests",
+        "items":["Chess","Blogging","Music"]
+    },
+    "Passions":{
+        "title":"Passions",
+        "items":["Open Source","Scalable","Web app"]
+    },
+    "acadamic":{
+        "title":"Acadamic Background",
+        "items":["B.E - Rathinam Technical Campus , CGPA - 8.23"]
+    },
+    "Experience":{
+        "title":"Work Experience",
+        "items":["Doing Freelaunce Projects"]
+    },
+    "Certifications":{
+        "title":"Certifications",
+        "items":["Javascript Essentials - IBM","MERN stack fundamendals - GREAT LEARNING"]
+    }
+}
