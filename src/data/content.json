@@ -1,19 +1,19 @@
 {
     "about":{
         "title":"About me",
-        "description":"I m Mohammed Suhail , a full stack developer"
+        "description":"I m Mohammed Suhail , a Full Stack Developer"
     },
     "skills":{
         "title":"Skills",
-        "items":["React","Node.js","MongoDB","TypeScript","Tailwind Css"]
+        "items":["React","Node.js","MongoDB","Javascript","Java", "Python","TypeScript","Tailwind Css","Bootstrap Css","MySQL","Postgres SQL"]
     },
     "Hobbies":{
         "title":"hobbies and interests",
-        "items":["Chess","Blogging","Music"]
+        "items":["Chess","Blogging","Music","Problem Solving"]
     },
     "Passions":{
         "title":"Passions",
-        "items":["Open Source","Scalable","Web app"]
+        "items":["Open Source","Scalable","Developer"]
     },
     "acadamic":{
         "title":"Acadamic Background",
